@@ -1,16 +1,81 @@
-# React + Vite
+# Huddle Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A responsive landing page built as part of a Frontend Mentor challenge, using React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Getting Started](#getting-started)
+- [Available Scripts](#available-scripts)
+- [Built With](#built-with)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-## React Compiler
+## Overview
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is a solution to the [Frontend Mentor Huddle landing page challenge](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). The goal was to create a pixel-perfect, responsive landing page based on the provided design.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive design for desktop and mobile
+- Modern layout with Tailwind CSS
+- Clean, accessible, and semantic HTML structure
+- Optimized assets and SVG illustrations
+
+## Screenshots
+
+| Desktop                                            | Mobile                                           |
+| -------------------------------------------------- | ------------------------------------------------ |
+| ![Desktop Screenshot](./src/assets/bg-desktop.svg) | ![Mobile Screenshot](./src/assets/bg-mobile.svg) |
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16 or higher recommended)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MIKOXO/Huddle-landing-page.git
+   cd Huddle-landing-page
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+4. Open [http://localhost:5173](http://localhost:5173) to view the app in your browser.
+
+## Available Scripts
+
+- `npm run dev` — Runs the app in development mode
+- `npm run build` — Builds the app for production
+- `npm run preview` — Previews the production build locally
+
+## Built With
+
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## Author
+
+- [MIKOXO](https://github.com/MIKOXO)
+
+## Acknowledgments
+
+- [Frontend Mentor](https://www.frontendmentor.io/) for the challenge and design assets
+- [Vite](https://vitejs.dev/) for fast development tooling
+- [Tailwind CSS](https://tailwindcss.com/) for utility-first styling
