@@ -24,12 +24,6 @@ This project is a solution to the [Frontend Mentor Huddle landing page challenge
 - Clean, accessible, and semantic HTML structure
 - Optimized assets and SVG illustrations
 
-## Screenshots
-
-| Desktop                                            | Mobile                                           |
-| -------------------------------------------------- | ------------------------------------------------ |
-| ![Desktop Screenshot](./src/assets/bg-desktop.svg) | ![Mobile Screenshot](./src/assets/bg-mobile.svg) |
-
 ## Getting Started
 
 ### Prerequisites
